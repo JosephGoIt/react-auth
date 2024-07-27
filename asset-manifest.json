@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/react-auth/static/css/main.78f14464.css",
+    "main.js": "/react-auth/static/js/main.abb3670d.js",
+    "static/js/493.3bf3c583.chunk.js": "/react-auth/static/js/493.3bf3c583.chunk.js",
+    "static/css/569.a1a7037e.chunk.css": "/react-auth/static/css/569.a1a7037e.chunk.css",
+    "static/js/569.0a22cc49.chunk.js": "/react-auth/static/js/569.0a22cc49.chunk.js",
+    "static/css/991.3326cc25.chunk.css": "/react-auth/static/css/991.3326cc25.chunk.css",
+    "static/js/991.7750b878.chunk.js": "/react-auth/static/js/991.7750b878.chunk.js",
+    "static/css/812.511abaa6.chunk.css": "/react-auth/static/css/812.511abaa6.chunk.css",
+    "static/js/812.fdec4cab.chunk.js": "/react-auth/static/js/812.fdec4cab.chunk.js",
+    "static/js/270.cdca11d3.chunk.js": "/react-auth/static/js/270.cdca11d3.chunk.js",
+    "index.html": "/react-auth/index.html",
+    "main.78f14464.css.map": "/react-auth/static/css/main.78f14464.css.map",
+    "main.abb3670d.js.map": "/react-auth/static/js/main.abb3670d.js.map",
+    "493.3bf3c583.chunk.js.map": "/react-auth/static/js/493.3bf3c583.chunk.js.map",
+    "569.a1a7037e.chunk.css.map": "/react-auth/static/css/569.a1a7037e.chunk.css.map",
+    "569.0a22cc49.chunk.js.map": "/react-auth/static/js/569.0a22cc49.chunk.js.map",
+    "991.3326cc25.chunk.css.map": "/react-auth/static/css/991.3326cc25.chunk.css.map",
+    "991.7750b878.chunk.js.map": "/react-auth/static/js/991.7750b878.chunk.js.map",
+    "812.511abaa6.chunk.css.map": "/react-auth/static/css/812.511abaa6.chunk.css.map",
+    "812.fdec4cab.chunk.js.map": "/react-auth/static/js/812.fdec4cab.chunk.js.map",
+    "270.cdca11d3.chunk.js.map": "/react-auth/static/js/270.cdca11d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.78f14464.css",
+    "static/js/main.abb3670d.js"
   ]
 }
