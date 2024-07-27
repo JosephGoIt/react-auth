@@ -1,5 +1,5 @@
 import { useDispatch } from 'react-redux';
-import { addTask } from '../redux/tasks/operations';
+import { addTask } from 'redux/tasks/operations';
 import css from './TaskEditor.module.css';
 
 export const TaskEditor = () => {
@@ -7,14 +7,13 @@ export const TaskEditor = () => {
 
   const handleSubmit = e => {
     e.preventDefault();
-    const form = e.currentTarget;
-    const text = form.elements.text.value;
-    if (text !== '') {
-      dispatch(addTask(text));
-      form.reset();
-      return;
+    const { text } = e.currentTarget.elements;
+    if (text.value.trim()) {
+      dispatch(addTask(text.value));
+      e.currentTarget.reset();
+    } else {
+      alert('Task cannot be empty. Enter some text!');
     }
-    alert('Task cannot be empty. Enter some text!');
   };
 
   return (
