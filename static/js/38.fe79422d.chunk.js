@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[38],{3038:function(e,t,h){h.r(t);h(2791);var a=h(184);t.default=function(){return(0,a.jsxs)("div",{children:[(0,a.jsx)("h1",{children:"React Auth Page"}),(0,a.jsx)("p",{children:"This is the React Auth page."})]})}}}]);
+//# sourceMappingURL=38.fe79422d.chunk.js.map
