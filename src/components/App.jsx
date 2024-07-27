@@ -5,13 +5,13 @@ import { Layout } from './Layout';
 import { PrivateRoute } from './PrivateRoute';
 import { RestrictedRoute } from './RestrictedRoute';
 import { refreshUser } from './redux/auth/operations';
-import { useAuth } from './hooks/useAuth';
+import { useAuth } from '../hooks/useAuth';
 
 
-const HomePage = lazy(() => import('../components/pages/Home'));
-const RegisterPage = lazy(() => import('../components/pages/Register'));
-const LoginPage = lazy(() => import('../components/pages/Login'));
-const TasksPage = lazy(() => import('../components/pages/Tasks'));
+const HomePage = lazy(() => import('../pages/Home'));
+const RegisterPage = lazy(() => import('../pages/Register'));
+const LoginPage = lazy(() => import('../pages/Login'));
+const TasksPage = lazy(() => import('../pages/Tasks'));
 
 export const App = () => {
   const dispatch = useDispatch();
