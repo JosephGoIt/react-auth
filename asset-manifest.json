@@ -1,29 +1,13 @@
 {
   "files": {
-    "main.css": "/react-auth/static/css/main.78f14464.css",
-    "main.js": "/react-auth/static/js/main.003dff70.js",
-    "static/js/415.83932cdf.chunk.js": "/react-auth/static/js/415.83932cdf.chunk.js",
-    "static/css/26.d710a763.chunk.css": "/react-auth/static/css/26.d710a763.chunk.css",
-    "static/js/26.78595b60.chunk.js": "/react-auth/static/js/26.78595b60.chunk.js",
-    "static/css/465.48647cbf.chunk.css": "/react-auth/static/css/465.48647cbf.chunk.css",
-    "static/js/465.f76b89f8.chunk.js": "/react-auth/static/js/465.f76b89f8.chunk.js",
-    "static/js/453.ccefbbcf.chunk.js": "/react-auth/static/js/453.ccefbbcf.chunk.js",
-    "static/js/38.fe79422d.chunk.js": "/react-auth/static/js/38.fe79422d.chunk.js",
-    "static/js/270.cdca11d3.chunk.js": "/react-auth/static/js/270.cdca11d3.chunk.js",
+    "main.css": "/react-auth/static/css/main.1695f95e.css",
+    "main.js": "/react-auth/static/js/main.8aa2508a.js",
     "index.html": "/react-auth/index.html",
-    "main.78f14464.css.map": "/react-auth/static/css/main.78f14464.css.map",
-    "main.003dff70.js.map": "/react-auth/static/js/main.003dff70.js.map",
-    "415.83932cdf.chunk.js.map": "/react-auth/static/js/415.83932cdf.chunk.js.map",
-    "26.d710a763.chunk.css.map": "/react-auth/static/css/26.d710a763.chunk.css.map",
-    "26.78595b60.chunk.js.map": "/react-auth/static/js/26.78595b60.chunk.js.map",
-    "465.48647cbf.chunk.css.map": "/react-auth/static/css/465.48647cbf.chunk.css.map",
-    "465.f76b89f8.chunk.js.map": "/react-auth/static/js/465.f76b89f8.chunk.js.map",
-    "453.ccefbbcf.chunk.js.map": "/react-auth/static/js/453.ccefbbcf.chunk.js.map",
-    "38.fe79422d.chunk.js.map": "/react-auth/static/js/38.fe79422d.chunk.js.map",
-    "270.cdca11d3.chunk.js.map": "/react-auth/static/js/270.cdca11d3.chunk.js.map"
+    "main.1695f95e.css.map": "/react-auth/static/css/main.1695f95e.css.map",
+    "main.8aa2508a.js.map": "/react-auth/static/js/main.8aa2508a.js.map"
   },
   "entrypoints": [
-    "static/css/main.78f14464.css",
-    "static/js/main.003dff70.js"
+    "static/css/main.1695f95e.css",
+    "static/js/main.8aa2508a.js"
   ]
 }
